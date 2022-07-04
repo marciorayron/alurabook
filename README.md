@@ -1,2 +1,2 @@
 # alurabook
-Site feito no curso da alura
+projeto de site responsivo para mobile (celular e tablet) e para desktop
